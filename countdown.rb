@@ -8,4 +8,4 @@ def countdown(n)
       break if n == 10
    end
 end
-  return "HAPPY NEW YEAR!"
+  puts "HAPPY NEW YEAR!"
