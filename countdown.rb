@@ -6,6 +6,7 @@ def countdown(n)
     puts "#{n} SECOND(S)!"
     n += 1
       break if n >= 10
+         puts "HAPPY NEW YEAR!"
    end
-   puts "HAPPY NEW YEAR!"
+
 end
